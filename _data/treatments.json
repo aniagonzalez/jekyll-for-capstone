@@ -1,0 +1,32 @@
+[
+{
+"icon": "icon-user-md",
+"title": "Brackets Invisibles",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?"
+},
+{
+"icon": "icon-diamond",
+"title": "Dentaduras Cosmeticas",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?"
+},
+{
+"icon": "icon-flask",
+"title": "Removedura de Manchas",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+},
+{
+"icon": "icon-globe",
+"title": "Diamantes Incrustados",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?"
+},
+{
+"icon": "icon-ambulance",
+"title": "Emergencias",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?"
+},
+{
+"icon": "icon-bed",
+"title": "Sedado",
+"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quam minima, itaque molestiae ut ratione unde?"
+}
+]
